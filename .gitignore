@@ -1,0 +1,5 @@
+uploads/*
+db.splite3
+*.pyc
+.DS_Store
+autotester
